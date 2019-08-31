@@ -1,5 +1,5 @@
 {
-  "name": "react-table",
+  "name": "@goodwaygroup/react-table",
   "version": "7.0.0-alpha.33",
   "description": "A fast, lightweight, opinionated table and datagrid built on React",
   "license": "MIT",
